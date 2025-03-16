@@ -4,7 +4,7 @@ Este proyecto es una landing page diseñada para promocionar una aplicación de 
 
 ## Capturas de pantalla
 
-![Vista previa del proyecto](/img/principal.png)
+![Vista previa del proyecto](./img/principal.png)
 
 ## Tecnologías utilizadas
 
