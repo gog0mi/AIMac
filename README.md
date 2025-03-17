@@ -2,9 +2,11 @@
 
 Este proyecto es una landing page diseñada para promocionar una aplicación de inteligencia artificial para macOS. Fue desarrollada únicamente con HTML y CSS.
 
+https://gog0mi.github.io/AIMac/
+
 ## Capturas de pantalla
 
-![Vista previa del proyecto](./img/principal.png)
+![Vista previa del proyecto](./img/principal-page.png)
 
 ## Tecnologías utilizadas
 
